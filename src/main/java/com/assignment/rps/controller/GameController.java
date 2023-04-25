@@ -13,7 +13,7 @@ import com.assignment.rps.service.GameService;
 
 @RestController
 
-//@Api(tags = "Rock Paper Scissors API")
+
 
 public class GameController {
     private static final Logger logger = LoggerFactory.getLogger(GameController.class);
